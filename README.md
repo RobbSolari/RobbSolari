@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RobbSolari
+- 👀 I’m interested in web development, videogames, gardening, music, cooking and other things.
+- 🌱 I’m currently learning Node.js @ Web Development Bootcamp by Angela Yu on Udemy.
+- 📫 You can reach me at rob-erto@libero.it or on twitter @RobbSolari.
