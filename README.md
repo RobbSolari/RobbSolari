@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RobbSolari
 - 👀 I’m interested in web development, videogames, gardening, music, traveling, cooking and other things.
 - 🌱 I'm currently going over the revised version of [The Complete Full-Stack Web Development Bootcamp by Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp) on Udemy.
-- 📫 You can reach me at roberto.solari@me.com, on BlueSky [@robbsolari.bsky.social](https://bsky.app/profile/robbsolari.bsky.social)), or [Linkedin](https://www.linkedin.com/in/robbsolari/).
+- 📫 You can reach me at roberto.solari@me.com, on BlueSky [@robbsolari.bsky.social](https://bsky.app/profile/robbsolari.bsky.social), or [Linkedin](https://www.linkedin.com/in/robbsolari/).
 - This GitHub page is still a work in progress.
